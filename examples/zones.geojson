@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cut-pit",
+        "name": "Cut pit",
+        "kind": "pit"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              500050.0,
+              4599400.0
+            ],
+            [
+              500300.0,
+              4599400.0
+            ],
+            [
+              500300.0,
+              4599900.0
+            ],
+            [
+              500050.0,
+              4599900.0
+            ],
+            [
+              500050.0,
+              4599400.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "fill-mound",
+        "name": "Fill mound",
+        "kind": "stockpile"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              500600.0,
+              4599150.0
+            ],
+            [
+              501010.0,
+              4599150.0
+            ],
+            [
+              501010.0,
+              4599350.0
+            ],
+            [
+              500600.0,
+              4599350.0
+            ],
+            [
+              500600.0,
+              4599150.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "stable-road",
+        "name": "Stable road",
+        "kind": "stable"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              500350.0,
+              4599400.0
+            ],
+            [
+              500550.0,
+              4599400.0
+            ],
+            [
+              500550.0,
+              4599900.0
+            ],
+            [
+              500350.0,
+              4599900.0
+            ],
+            [
+              500350.0,
+              4599400.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
